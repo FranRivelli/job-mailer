@@ -1,0 +1,15 @@
+# ──────────────────────────────────────────────
+#  Job Mailer — Dependencias Python
+#  Instalación: pip install -r requirements.txt
+# ──────────────────────────────────────────────
+
+# Interfaz web
+streamlit>=1.35.0
+
+# Gmail API (OAuth 2.0)
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.131.0
+
+# Redacción con IA (Claude)
+anthropic>=0.28.0
