@@ -35,6 +35,9 @@ pip install -r requirements.txt
 
 ## Capturas de pantalla
 
+<img width="1889" height="912" alt="image" src="https://github.com/user-attachments/assets/b7457b45-18c7-4965-9acc-be6bb9e658ed" />
+<img width="1107" height="656" alt="image" src="https://github.com/user-attachments/assets/64d11d7b-1ef8-4b7a-abbe-a9f49b92f0e2" />
+
 <!-- Pegá acá tus capturas: formulario, preview del correo, envío programado, etc. -->
 
 ## Qué aprendí / qué le falta
